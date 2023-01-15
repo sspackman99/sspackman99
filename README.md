@@ -1,6 +1,6 @@
 ### About Me
 
-My name is Sam Spackman and I am currently working on starting a helpful data science blog for students and working professionals early in their careers. It's called Data Science Magic and beyond excited about it.
+My name is Sam Spackman and I am currently working on starting a helpful data science blog for students and working professionals early in their careers. It's called [Data Science Magic](https://www.datasciencemagic.org/) and I'm beyond excited about it.
 
 I'm finishing up my last year of college at Brigham Young University and preparing to enter graduate school. I'm studying statistics (which is surprisingly super cool) and am focusing the last year of my undergraduate studies on things like linear modeling and machine learning, Bayesian stats, and environmental science. I'm also building a Raspberry Pi robot on the side, so be watching out for that. ;)
 
