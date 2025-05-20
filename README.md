@@ -4,7 +4,6 @@ I'm a data scientist with a background in statistics and a passion for making co
 
 These days, I'm exploring how to use LLMs effectively, tinkering with home servers and lightweight devops, and always looking for new ways to turn data into insight. I also run a blog called Data Science Magic, where I share helpful guides and practical tips for students and early-career professionals in data science.
 
-I'm always up for a good project—whether it's analyzing ecological data, building smarter models, or spinning up a Raspberry Pi robot for fun.
 Reach me at sspackman99@gmail.com or connect on LinkedIn
 
 <!--
